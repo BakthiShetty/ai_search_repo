@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SemanticSearch.Api/SemanticSearch.Api.csproj" />
+    <Project Path="src/SemanticSearch.Worker/SemanticSearch.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/GenerateSamples/GenerateSamples.csproj" />
+  </Folder>
+</Solution>
